@@ -1,0 +1,15 @@
+.first{
+    background-color: palevioletred;
+}
+#firstI{
+    font-size: 24px;
+    color: blue;
+}
+.second{
+    background-color: palevioletred;
+    font-size: 20px;
+}
+#secondI{
+    background-color: green;
+    font-size: 19px;
+}
