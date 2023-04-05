@@ -36,3 +36,12 @@ a {
   flex:auto;
   margin: 5px;
 }
+
+.left-links{
+  color:blue;
+  margin-right: auto;
+}
+
+.right-links{
+  margin-left: auto;
+}
